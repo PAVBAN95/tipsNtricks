@@ -39,7 +39,7 @@
 2. **Push Bullet** ([*Chrome*](https://chrome.google.com/webstore/detail/pushbullet/chlffgpmiacpedhhbkiomidkjlcfhogd?hl=en)) ([*Firefox*](https://addons.mozilla.org/en-US/firefox/addon/pushbullet/)) ([*Android*](https://play.google.com/store/apps/details?id=com.pushbullet.android&hl=en))- Sync media, messages across multiple devices.
 
 ## Websites
-1. [**xPau.se**](http://xpau.se/movies/), [**khatrimaza**](http://khatrimaza.org/), [**Couchtuner**](http://www.couchtuner.ag/), [**Shush**](https://www.shush.se/), [**KissAnime**](https://kissanime.to/), [**123Movies**](https://123movies.io/), [**PutarFilm**](http://putarfilm.com/)- Get all the tv series and movies in HD.
+1. [**xPau.se**](http://xpau.se/movies/), [**khatrimaza**](http://khatrimaza.org/), [**Couchtuner**](http://www.couchtuner.ag/), [**Shush**](https://www.shush.se/), [**KissAnime**](https://kissanime.to/),[**FMOVIES**](https://www.fmovies.io/), [**123Movies**](https://123movies.io/), [**PutarFilm**](http://putarfilm.com/)- Get all the tv series and movies in HD.
 2. [**StackOverflow**](http://stackoverflow.com/), [**StackExchange**](http://stackexchange.com/) - Best QA sites
 3. [**GeeksforGeeks**](http://www.geeksforgeeks.org/) - Learn algorithms and data structures
 4. [**InterviewBit**](https://www.interviewbit.com/) - For programming interview preparation. ***Complete this before starting of the final year for excellent placements***
