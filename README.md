@@ -197,6 +197,7 @@
 28. **AdAway** - Block most of Ads on your phone
 29. **SplitWise** - Split bills and expenses with friends
 30. **Beebom** - Get Latest Technology Information
+32. **Snapseed** - Professional quality photo edits 
 
 ## Linux commands and shortcuts
 1. **ps -el | grep &lt;application name&gt;** - to get the process id of the process.
